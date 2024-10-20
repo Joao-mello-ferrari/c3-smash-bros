@@ -15,3 +15,7 @@
 > How to run ? <br>- Click play button<br> - Go to Hierarchy > DontDestroyOnLoad > NetworkManager > Start Host
 
 
+## Used docs
+* Configure VsCode to be Unity default editor: [link](https://learn.microsoft.com/en-us/visualstudio/gamedev/unity/get-started/getting-started-with-visual-studio-tools-for-unity?pivots=macos)
+* Helper video to understand Unity Multiplayer with Unity Netcode: [link](https://www.youtube.com/watch?v=stJ4SESQwJQ&t=505s)
+* Animations: [link 1](https://www.youtube.com/watch?v=_FFv8dkfF1g) & [link 2](https://www.youtube.com/watch?v=msTvOG4w80I)
