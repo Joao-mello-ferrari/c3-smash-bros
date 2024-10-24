@@ -8,7 +8,8 @@
 6. Need [ParralenSync](https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync) to test multiplayer game<br><br>
 
 > SmashBrosV1.unitypackage
-1. Still in development
+1. Control panel to start/stop host & client
+2. Code sanitization
 
 
 > [!NOTE]  
