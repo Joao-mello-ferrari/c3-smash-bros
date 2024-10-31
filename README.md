@@ -2,10 +2,10 @@
 > SmashBrosV0.unitypackage
 1. Arena with rigid body
 2. Player prefabs with base phisics, coliision trigger detection and hit capabilities
-3. Multiplayer control with [Unity Netcode](https://github.com/Unity-Technologies/com.unity.netcode.gameobjects)
+3. Multiplayer control with [Unity Netcode](by name: com.unity.netcode.gameobjects)
 4. Hit count of own player using Canva and LegacyText component
 5. Character animation, with Walking and Standing states
-6. Need [ParralenSync](https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync) to test multiplayer game<br><br>
+6. Need [ParralenSync](by git URL: https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync) to test multiplayer game<br><br>
 
 > SmashBrosV1.unitypackage
 1. Control panel to start/stop host & client
