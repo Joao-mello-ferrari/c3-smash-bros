@@ -5,12 +5,22 @@
 3. Multiplayer control with [Unity Netcode](by name: com.unity.netcode.gameobjects)
 4. Hit count of own player using Canva and LegacyText component
 5. Character animation, with Walking and Standing states
-6. Need [ParralenSync](by git URL: https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync) to test multiplayer game<br><br>
+6. Need [ParralenSync](by git URL: https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync) to test multiplayer game
+
+<br>
 
 > SmashBrosV1.unitypackage
 1. Control panel to start/stop host & client
 2. Code sanitization
 
+<br>
+
+> SmashBrosV2.unitypackage
+1. Render hits taken on displayController
+2. Increase damage taken according to current hitpoint (damage)
+3. Implement spawn count (lifes) & gameover when exiting arena more than n (current 3) times
+
+<br>
 
 > [!NOTE]  
 > How to run ? <br>- Click play button<br> - Go to Hierarchy > DontDestroyOnLoad > NetworkManager > Start Host
