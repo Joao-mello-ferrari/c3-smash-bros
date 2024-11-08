@@ -22,6 +22,26 @@
 
 <br>
 
+> SmashBrosV3.unitypackage
+1. Set up Unity Lobby (https://docs.unity.com/ugs/manual/lobby/manual/get-started)
+2. Lobby scene
+3. Lobby management
+4. Synchronized game start
+
+<br>
+
+> SmashBrosV4.unitypackage
+- It's missing because some bugs were fixed in V5 before uploading V4
+
+<br>
+
+> SmashBrosV5.unitypackage
+1. Create multiple prefabs, on for each character
+2. Character selection (scene + communicating the character of each player for all clients)
+3. Customize prefab instantiation and spawn instead of defining player prefab in the Network Manager
+
+<br>
+
 > [!NOTE]  
 > How to run ? <br>- Click play button<br> - Go to Hierarchy > DontDestroyOnLoad > NetworkManager > Start Host
 
