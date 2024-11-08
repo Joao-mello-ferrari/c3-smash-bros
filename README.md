@@ -43,7 +43,7 @@
 <br>
 
 > [!NOTE]  
-> How to run ? <br>- Click play button<br> - Go to Hierarchy > DontDestroyOnLoad > NetworkManager > Start Host
+> How to run ? <br>- Click play button<br>- Click _create lobby_ button<br>- In other editor (use _ParalellSync_) click _list lobbies_ and click the lobby that appears in the list to join<br>- Choose you character<br>- Click _start game_ in the editor that created the lobby<br>- Click _start game_ in the arena scene
 
 
 ## Used docs
