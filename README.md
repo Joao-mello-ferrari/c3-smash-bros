@@ -1,11 +1,22 @@
+## Project Setup
+- Go to window > Package Manager > Hit `+` icon on Top left > Add package bit git URL
+  - `com.unity.netcode.gameobjects` Used to add host/client connections
+  - `https://github.com/VeriorPies/ParrelSync.git` Used to create clone app to test multiplayer
+  - `com.unity.services.multiplayer` Used to allow Lobby and connect to unity Lobby System Manager
+
+- Go to Assets/Scenes > For each scene (currently 3)
+  - Double click the scene
+  - Hit the play button to start the game
+  - Click `yes` to import the scene to build scenes
+
+
 ## Version control description
 > SmashBrosV0.unitypackage
 1. Arena with rigid body
 2. Player prefabs with base phisics, coliision trigger detection and hit capabilities
-3. Multiplayer control with [Unity Netcode](by name: com.unity.netcode.gameobjects)
+3. Multiplayer control with Unity Netcode
 4. Hit count of own player using Canva and LegacyText component
 5. Character animation, with Walking and Standing states
-6. Need [ParralenSync](by git URL: https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync) to test multiplayer game
 
 <br>
 
@@ -43,7 +54,14 @@
 <br>
 
 > [!NOTE]  
-> How to run ? <br>- Click play button<br>- Click _create lobby_ button<br>- In other editor (use _ParalellSync_) click _list lobbies_ and click the lobby that appears in the list to join<br>- Choose you character<br>- Click _start game_ in the editor that created the lobby<br>- Click _start game_ in the arena scene
+> How to run ?
+> - Double click SampleScene on Assets/Scenes
+> - Click play button
+> - Click _create lobby_ button
+> - In other editor (use _ParalellSync_) click _list lobbies_ and click the lobby that appears in the list to join
+> - Choose you character
+> - Click _start game_ in the editor that created the lobby
+> - Click _start game_ in the arena scene
 
 
 ## Used docs
