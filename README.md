@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/605b6349-ad95-4481-8f5c-32c596a6caee
 ## Project Setup
 - Go to window > Package Manager > Hit `+` icon on Top left > Add package bit git URL
   - `com.unity.netcode.gameobjects` Used to add host/client connections
-  - `https://github.com/VeriorPies/ParrelSync.git` Used to create clone app to test multiplayer
+  - `https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync` Used to create clone app to test multiplayer
   - `com.unity.services.multiplayer` Used to allow Lobby and connect to unity Lobby System Manager
 
 - Go to Assets/Scenes > For each scene (currently 3)
