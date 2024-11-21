@@ -13,6 +13,14 @@ https://github.com/user-attachments/assets/605b6349-ad95-4481-8f5c-32c596a6caee
   - Hit the play button to start the game
   - Click `yes` to import the scene to build scenes
 
+- If there are compilation errors like below: Go to Edit > Project Settings > Burst AOT Settings > uncheck Enable Burst Compilation.
+```
+Failed to find entry-points:
+  Mono.Cecil.AssemblyResolutionException:
+  Failed to resolve assembly: 'Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' --->
+  System.Exception: Failed to resolve assembly 'Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' in directories ...
+```
+
 
 ## Version control description
 > SmashBrosV0.unitypackage
