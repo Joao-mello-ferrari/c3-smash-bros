@@ -65,6 +65,14 @@ Failed to find entry-points:
 
 <br>
 
+> SmashBrosV6.unitypackage
+1. Improved characters sprites state machine
+2. Connected Unity Lobby + Relay + Netcode: Now players from different LAN can play together
+3. Lobbies are listed automatically
+4. Project structure refactor, removing unused code
+
+<br>
+
 > [!NOTE]  
 > How to run ?
 > - Double click SampleScene on Assets/Scenes
