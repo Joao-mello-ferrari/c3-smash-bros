@@ -73,6 +73,13 @@ Failed to find entry-points:
 
 <br>
 
+> SmashBrosV7.unitypackage
+1. Fixed lobby exceptions
+2. Added base bot spawn, with BotMovement script
+3. Bots are not allowed to hit, only take hits. They are still dumb
+
+<br>
+
 > [!NOTE]  
 > How to run ?
 > - Double click SampleScene on Assets/Scenes
