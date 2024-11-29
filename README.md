@@ -80,6 +80,14 @@ Failed to find entry-points:
 
 <br>
 
+> SmashBrosV8.unitypackage
+1. Create "Welcome" scene, before starting the game (only enabling "Start game" button for the host)
+2. Develop a separate script to manage player instantiation and spawning, independent of the DisplayController
+3. Display damage progress bar for every player
+4. Display hearts to represent the remaining lives of each player
+
+<br>
+
 > [!NOTE]  
 > How to run ?
 > - Double click SampleScene on Assets/Scenes
