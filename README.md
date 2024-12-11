@@ -88,6 +88,19 @@ Failed to find entry-points:
 
 <br>
 
+> SmashBrosV9.unitypackage
+1. Improve layout on Lobby & CharacterSelecion scenes
+
+<br>
+
+> SmashBrosV10.unitypackage
+1. GameOver screen
+2. Toasts manager to give user feedback on lobby & selection character
+3. Game restart from same lobby (bugs for rendering stocks on client)
+4. Improved join Lobby flow
+
+<br>
+
 > [!NOTE]  
 > How to run ?
 > - Double click SampleScene on Assets/Scenes
