@@ -101,6 +101,17 @@ Failed to find entry-points:
 
 <br>
 
+> SmashBrosV11.unitypackage
+1. Randomly choose bot characters avoiding repetition
+2. Crate unique names for each player
+3. Remove unecessary buttons from lobby scene
+4. Fix despawn after game over
+5. Unable/Despawn players when going back to lobby after game over
+6. Inherit CharacterMovement class in BotMovement script
+7. Implement retries in join/create lobby until the operation is successful
+
+<br>
+
 > [!NOTE]  
 > How to run ?
 > - Double click SampleScene on Assets/Scenes
