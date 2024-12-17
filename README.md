@@ -103,12 +103,24 @@ Failed to find entry-points:
 
 > SmashBrosV11.unitypackage
 1. Randomly choose bot characters avoiding repetition
-2. Crate unique names for each player
+2. Create unique names for each player
 3. Remove unecessary buttons from lobby scene
 4. Fix despawn after game over
 5. Unable/Despawn players when going back to lobby after game over
 6. Inherit CharacterMovement class in BotMovement script
 7. Implement retries in join/create lobby until the operation is successful
+
+<br>
+
+> SmashBrosV12.unitypackage
+1. Add all characters prefab to game
+2. Implement jump, idle & attack animations (using sprites from [@Kauã](https://github.com/KauaOrtiz))
+3. Create Victory & EndGame scenes
+4. Improved navigation between scenes when game session ended<br>
+  4.1. Hosts can navigate back to CharacterSelecion<br>
+  4.2. Clients can navigate back to Lobby
+5. Improved Lobby UI
+6. Add max attempts to join/create lobby
 
 <br>
 
