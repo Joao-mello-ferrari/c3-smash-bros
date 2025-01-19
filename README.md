@@ -124,6 +124,12 @@ Failed to find entry-points:
 
 <br>
 
+> SmashBrosV13.unitypackage
+1. Add Furg & CC scenarios
+2. Final layout fixes
+
+<br>
+
 > [!NOTE]  
 > How to run ?
 > - Double click SampleScene on Assets/Scenes
