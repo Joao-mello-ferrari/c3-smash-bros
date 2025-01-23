@@ -130,6 +130,14 @@ Failed to find entry-points:
 
 <br>
 
+<br>
+
+> SmashBrosV14.unitypackage
+1. Add bot movements
+2. Some variables changes
+
+<br>
+
 > [!NOTE]  
 > How to run ?
 > - Double click SampleScene on Assets/Scenes
