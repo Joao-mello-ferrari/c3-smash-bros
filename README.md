@@ -130,11 +130,15 @@ Failed to find entry-points:
 
 <br>
 
-<br>
-
 > SmashBrosV14.unitypackage
 1. Add bot movements
 2. Some variables changes
+
+<br>
+
+> SmashBrosV15.unitypackage
+1. Improve bot thresholds
+2. Final layout fixes
 
 <br>
 
